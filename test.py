@@ -1,4 +1,5 @@
 import pymysql
+#git test주석
 #데이터베이스 접속 관련 변수 초기화
 host = "localhost"
 
